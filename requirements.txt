@@ -1,0 +1,7 @@
+agno
+sqlalchemy
+streamlit
+groq
+openai
+python-dotenv
+pandas
