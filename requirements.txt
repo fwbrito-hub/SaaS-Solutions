@@ -1,7 +1,8 @@
 agno
 sqlalchemy
 streamlit
-groq
-openai
+agno
+python-dotenv
+pandas
 python-dotenv
 pandas
