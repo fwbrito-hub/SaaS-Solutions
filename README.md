@@ -12,9 +12,9 @@ Acompanhe os módulos do curso através dos Notebooks interativos abaixo. Cada a
 
 | Módulo | Conteúdo | Notebook |
 | :--- | :--- | :--- |
-| **01** | **Base do SaaS (Banco de Dados)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Usuário/auto-insure-ai/blob/main/notebooks/01_database.ipynb) |
-| **02** | **Cérebro (IA com Agno)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Usuário/auto-insure-ai/blob/main/notebooks/02_agents_ia.ipynb) |
-| **03** | **Interface (Streamlit Dashboard)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Usuário/auto-insure-ai/blob/main/notebooks/03_streamlit_ui.ipynb) |
+| **01** | **Base do SaaS (Banco de Dados)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fwbrito-hub/SaaS-Solutions/blob/main/notebooks/01_database.ipynb) |
+| **02** | **Cérebro (IA com Agno)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fwbrito-hub/SaaS-Solutions/blob/main/notebooks/02_agents_ia.ipynb) |
+| **03** | **Interface (Streamlit Dashboard)** | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fwbrito-hub/SaaS-Solutions/blob/main/notebooks/03_streamlit_ui.ipynb) |
 
 ---
 
@@ -34,7 +34,7 @@ Para rodar este projeto na sua máquina:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/auto-insure-ai.git
+git clone https://github.com/fwbrito-hub/SaaS-Solutions.git
 ```
 
 2. Instale as dependências:
